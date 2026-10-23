@@ -7,7 +7,7 @@
     margin-right: 100px;
     margin-left: 100px;
     margin-top: 5px;
-    text-align: left;
+    text-align: center;
     
 
 }
@@ -17,4 +17,14 @@
     background-color: black;
     color: rgb(211, 102, 0);;
     text-align: center;
+}
+
+ul {
+    border: 2px solid black;
+    padding: 10px 25px;
+}
+
+ol {
+    border: 2px solid black;
+    padding: 10px 25px;
 }
