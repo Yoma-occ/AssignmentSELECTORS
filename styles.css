@@ -1,16 +1,16 @@
-#header {
+#header {                      /* header id selector for CSS styling */
     border: 2px solid rgb(211, 102, 0);
     background-color: rgb(2, 2, 2);
     color: rgb(211, 102, 0);
     font-size: 50px;
-    padding: 20px;
-    margin-right: 100px;
+    padding: 20px;            /* This is an attempt to get the items in the black box aligned better*/
+    margin-right: 100px;      
     margin-left: 100px;
     margin-top: 5px;
     text-align: center;
 }
 
-.item1 {
+.item1 {                        
     background-color: rgb(211, 102, 0);
     background-size: cover;
     color: black;
@@ -33,7 +33,7 @@
 
 ul {
     background-color: black;
-    color: rgb(211, 102, 0);;
+    color: rgb(211, 102, 0);;    /* list-style-position didn't seem to work in this ul css*/
     border: 2px solid black;
     padding: 10px 25px;
 }
