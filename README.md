@@ -10,3 +10,6 @@
  (USED AI TO UPDATE CHANGELOG)
 
 
+<!-- Options for operation: 
+    right click index.html, click "open with Edge - open with browser - open with live server - open with integrated browser"
+    At the bottom right, there's a "Go Live" text. Click that to open external browser.
